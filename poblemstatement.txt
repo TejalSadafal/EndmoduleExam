@@ -1,0 +1,75 @@
+
+Problem statement:-
+
+1.  Contoso is a multinational Company having 24 offices all over world and oue employe e want the details of custmer accounting in one click.
+2.  Company wanted to host Information Management solution in web.
+3.  Contoso want host internet public web site so their  customers know about product with online experience.
+4. Company required internet so all employee access Corporate Customer Accounting realated information.
+5. Contoso has a Amazon Webservices cloud scripting.
+6.  Company want to use this web service as infrastucture as a service.
+7. Comany main reqirement is to bulid  and host information system in public.
+8. By using google cloud plateform or Aws platform.
+
+
+Functionality:-
+
+1. The software automatically validates customers against the Information  Management System.
+2. The system should maintain  web site for customers.
+3. Only  have the right to all employee access Corporate Customer Accounting realated information.
+4. The software system should be integrated with AWS or Google cloud palteform.
+
+
+Non-Functionality:-
+
+1. Users must change the initially assigned login password immediately after the first successful login.
+2. Employees never allowed to update their  information. Such attempt should be reported to the security administrator.
+3. Every unsuccessful attempt by a user to access an item of data shall be recorded.
+4. A website should be capable enough to handle lots of  users with affecting its performance.
+5. The software should be portable, So moving from one Operating system to other Operating sytem does not create any problem.
+
+6. Privacy of information, the export of restricted technologies, intellectual property rights, etc. should be audited.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Funtional Requirement -
+
+
+
+3. Non-Functional Requirement
+
+
